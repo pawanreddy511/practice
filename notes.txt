@@ -1,2 +1,3 @@
 Git is easy
 Git tracks changes
+Git branches allow safe experimentation
