@@ -6,4 +6,9 @@ Git branches allow safe experimentation
 
 This is another branch
 
+<<<<<<< Updated upstream
 branch is branching
+=======
+
+This line is work in progress
+>>>>>>> Stashed changes
