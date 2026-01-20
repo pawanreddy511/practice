@@ -7,3 +7,6 @@ Git branches allow safe experimentation
 This is another branch
 
 branch is branching
+
+
+I'm stashing this in developer branch
